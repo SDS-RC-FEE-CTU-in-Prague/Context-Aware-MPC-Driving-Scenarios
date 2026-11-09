@@ -1,0 +1,1 @@
+This repository contains simulation driving scenarios generated across diverse driving contexts, accompanied by technical reports detailing scenario generation and the Context-Aware Battery Thermal Management System (BTMS) modeling.
